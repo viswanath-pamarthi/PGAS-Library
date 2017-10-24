@@ -4,8 +4,7 @@
                                  Project 4
 
 
-turnin_code:  pp_p4
-
+turnin_code:  pp_p4 
 
 Using C/C++, implement a parallel library that provides the user access
 to a PGAS system that conforms to the interface described here:
